@@ -108,11 +108,13 @@ lib/
 
 ---
 
-## 📸 Screenshots (to be added)
+## 📸 Screenshots
 
-- ![لقطة شاشة 2025-09-06 165111.png](../../OneDrive/%D8%A7%D9%84%D8%B5%D9%88%D8%B1/Screenshots/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-09-06%20165111.png)
-- ![لقطة شاشة 2025-09-06 165136.png](../../OneDrive/%D8%A7%D9%84%D8%B5%D9%88%D8%B1/Screenshots/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-09-06%20165136.png)
-- ![لقطة شاشة 2025-09-06 165858.png](../../OneDrive/%D8%A7%D9%84%D8%B5%D9%88%D8%B1/Screenshots/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-09-06%20165858.png)
+- <img width="360" height="756" alt="لقطة شاشة 2025-09-06 165111" src="https://github.com/user-attachments/assets/7eb4bfbd-70c8-430f-ac36-e5af5a13d1df" />
+
+- <img width="361" height="763" alt="لقطة شاشة 2025-09-06 165136" src="https://github.com/user-attachments/assets/d9434901-c38b-483d-bedb-53274fd48228" />
+
+- <img width="357" height="752" alt="لقطة شاشة 2025-09-06 165858" src="https://github.com/user-attachments/assets/83fdf86c-fd8d-4c46-9565-4c01451ff4b7" />
 
 ---
 
