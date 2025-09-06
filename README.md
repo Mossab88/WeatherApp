@@ -116,10 +116,5 @@ lib/
 
 - <img width="357" height="752" alt="لقطة شاشة 2025-09-06 165858" src="https://github.com/user-attachments/assets/83fdf86c-fd8d-4c46-9565-4c01451ff4b7" />
 
----
 
-## 🚀 Bonus Ideas
-- Save last searched city in `shared_preferences`.
-- Add dark mode support.
-- Show **3-day forecast** with extra API call.
 
