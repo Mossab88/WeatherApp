@@ -117,4 +117,3 @@ lib/
 - <img width="357" height="752" alt="لقطة شاشة 2025-09-06 165858" src="https://github.com/user-attachments/assets/83fdf86c-fd8d-4c46-9565-4c01451ff4b7" />
 
 
-
